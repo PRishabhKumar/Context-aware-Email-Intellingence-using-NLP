@@ -1,0 +1,23 @@
+Processed_Data.zip
+Processed_Data/
+important docs for review/
+.env
+nlp_resources.zip
+
+# Large datasets and models
+emails.json
+Data
+data/raw/
+data/processed/
+models/checkpoints/
+models/final/
+models/mobile/*.tflite
+models/mobile/*.ptl
+*.zip
+*.tar.bz2
+*.tar.gz
+Data for PC Transfer/
+models/
+
+# venv
+.venv
